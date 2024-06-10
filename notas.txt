@@ -1,0 +1,4 @@
+ejecutar por primera vez prisma
+
+npx prisma migrate dev --name init
+npx prisma studio
