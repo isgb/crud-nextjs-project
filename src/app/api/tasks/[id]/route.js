@@ -9,7 +9,7 @@ export async function GET(request, {params}){
         }
     })
     console.log(task)
-    return NextResponse.json("obteniendo tarea " + params.id)
+    return NextResponse.json(task)
 }
 
 export async function PUT(request, {params}){
