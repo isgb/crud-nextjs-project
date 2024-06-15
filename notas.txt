@@ -7,3 +7,6 @@ npx prisma studio
 -- deploy
 npx prisma migrate dev
 --> init
+
+npx prisma generate
+npx run dev
