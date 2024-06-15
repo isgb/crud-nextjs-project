@@ -1,4 +1,9 @@
 ejecutar por primera vez prisma
 
 npx prisma migrate dev --name init
+npm prisma init --datasource-provider prisma
 npx prisma studio
+
+-- deploy
+npx prisma migrate dev
+--> init
