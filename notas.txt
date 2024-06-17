@@ -22,3 +22,7 @@ vercel
 * Llegir nombre del proyecto por defecto
 * directory ./
 *want to modify : no
+
+agregar en app/page.js export const revalidate = 60; los datos en pantalla se reflejaran cada 
+ segundos y recagrar la pagina
+ vercel
