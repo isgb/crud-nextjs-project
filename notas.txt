@@ -10,3 +10,15 @@ npx prisma migrate dev
 
 npx prisma generate
 npx run dev
+------------
+
+npm install vercel -g
+vercel login
+* escoger Github
+vercel
+* yes
+* elegir el por defecto
+* Links : no
+* Llegir nombre del proyecto por defecto
+* directory ./
+*want to modify : no
