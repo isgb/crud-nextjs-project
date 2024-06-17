@@ -26,3 +26,5 @@ vercel
 agregar en app/page.js export const revalidate = 60; los datos en pantalla se reflejaran cada 
  segundos y recagrar la pagina
  vercel
+
+ https://nextjs-prisma-crud-m8g89xntm-isgbs-projects.vercel.app/
